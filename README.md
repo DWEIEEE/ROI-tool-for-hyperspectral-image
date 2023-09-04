@@ -1,5 +1,7 @@
 # ROI tool for hyperspectral image
 
+#### Now just try running on linux system, and also have many part to improve and modify.
+
 ## Install and run the code :minidisc:
 1. Clone the Repository
 ```Python
@@ -16,3 +18,4 @@ pip install -r requirements.txt
 ```Python
 python3 main_0.1.py
 ```
+## Demo Video :minidisc:
