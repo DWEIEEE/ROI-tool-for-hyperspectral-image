@@ -18,4 +18,5 @@ pip install -r requirements.txt
 ```Python
 python3 main_0.1.py
 ```
-## Demo Video :minidisc:
+## Demo Video ⏩
+hyperlink : https://youtu.be/W3P-Og8Jo9o
