@@ -1,1 +1,1 @@
-# ROI-tool-for-hyperspectral-image
+# ROI tool for hyperspectral image
