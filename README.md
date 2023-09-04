@@ -1,6 +1,6 @@
 # ROI tool for hyperspectral image
 
-#### Now just try running on linux system, and also have many part to improve and modify.
+#### Now just try running on linux system, and also have many part need to improve and modify.
 
 ## Install and run the code :minidisc:
 1. Clone the Repository
